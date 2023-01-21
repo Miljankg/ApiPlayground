@@ -10,6 +10,6 @@ internal static class Scenarios
         return ScenarioBuilder
             .CreateScenario(name, step)
             .WithWarmUpDuration(TimeSpan.FromSeconds(24))
-            .WithLoadSimulations(Simulation.KeepConstant(copies: 24, during: TimeSpan.FromSeconds(60)));
+            .WithLoadSimulations(Simulation.KeepConstant(copies: 24, during: TimeSpan.FromMinutes(5)));
     }
 }
