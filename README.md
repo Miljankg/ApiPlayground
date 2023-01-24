@@ -4,10 +4,10 @@ Playground for trying different .NET Web API features.
 # How to start current services and tests
 
 ## Starting Old Style vs Minimal API vs Fastendpoints API performance test
-1. Run Old Style API: `dotnet run --configuration Release --profile http --project .\src\ApiPerformanceTest.DefaultApi\ApiPerformanceTest.DefaultApi.csproj`
-3. Run Minimal API: `dotnet run --configuration Release --profile http --project .\src\ApiPerformanceTest.MinimalApi\ApiPerformanceTest.MinimalApi.csproj`
-4. Run Fastendpoints API: `dotnet run --configuration Release --profile http --project .\src\ApiPerformanceTest.FastEndpointsApi\ApiPerformanceTest.FastEndpointsApi.csproj`
-5. Run NBomber load test: `dotnet run --configuration Release --project .\test\ApiPerformanceTest.LoadTest\ApiPerformanceTest.LoadTest.csproj`
+1. Run Old Style API: `dotnet run --configuration Release --profile http --project .\src\ApiPlayground.DefaultApi\ApiPlayground.DefaultApi.csproj`
+3. Run Minimal API: `dotnet run --configuration Release --profile http --project .\src\ApiPlayground.MinimalApi\ApiPlayground.MinimalApi.csproj`
+4. Run Fastendpoints API: `dotnet run --configuration Release --profile http --project .\src\ApiPlayground.FastEndpointsApi\ApiPlayground.FastEndpointsApi.csproj`
+5. Run NBomber load test: `dotnet run --configuration Release --project .\test\ApiPlayground.LoadTest\ApiPlayground.LoadTest.csproj`
 
 # Test Results
 

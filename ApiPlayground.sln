@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPerformanceTest.DefaultApi", "src\ApiPerformanceTest.DefaultApi\ApiPerformanceTest.DefaultApi.csproj", "{47BCE18B-6139-429F-A353-3E7207F90053}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPlayground.DefaultApi", "src\ApiPlayground.DefaultApi\ApiPlayground.DefaultApi.csproj", "{47BCE18B-6139-429F-A353-3E7207F90053}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPerformanceTest.MinimalApi", "src\ApiPerformanceTest.MinimalApi\ApiPerformanceTest.MinimalApi.csproj", "{DD86B6CB-8D24-41B3-A1A2-76B18FA4B34F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPlayground.MinimalApi", "src\ApiPlayground.MinimalApi\ApiPlayground.MinimalApi.csproj", "{DD86B6CB-8D24-41B3-A1A2-76B18FA4B34F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPerformanceTest.FastEndpointsApi", "src\ApiPerformanceTest.FastEndpointsApi\ApiPerformanceTest.FastEndpointsApi.csproj", "{52043424-61BF-490F-90DF-D41FDA3A8621}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPlayground.FastEndpointsApi", "src\ApiPlayground.FastEndpointsApi\ApiPlayground.FastEndpointsApi.csproj", "{52043424-61BF-490F-90DF-D41FDA3A8621}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPerformanceTest.LoadTest", "test\ApiPerformanceTest.LoadTest\ApiPerformanceTest.LoadTest.csproj", "{74ECDA6F-6ED8-4138-ABAA-C578748A57D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPlayground.LoadTest", "test\ApiPlayground.LoadTest\ApiPlayground.LoadTest.csproj", "{74ECDA6F-6ED8-4138-ABAA-C578748A57D1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-APIs", "01-APIs", "{518941B6-9939-48CA-8BAC-397FA6232CF7}"
 EndProject
